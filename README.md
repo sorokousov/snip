@@ -78,28 +78,28 @@ Example output:
 
 ```bash
 snip show devserver
-snip show !1
+snip show @1
 ```
 
 ### Run a snippet
 
 ```bash
 snip run build
-snip run !2
+snip run @2
 ```
 
 ### Remove a snippet
 
 ```bash
 snip remove devserver
-snip remove !1
+snip remove @1
 ```
 
 ### Rename a snippet
 
 ```bash
 snip rename build images
-snip rename !1 localserver
+snip rename @1 localserver
 ```
 
 ## Development
