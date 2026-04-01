@@ -6,7 +6,7 @@
 
 - add snippets without external dependencies
 - list snippets with stable 1-based indices
-- show, run, remove, and rename snippets by name or `!index`
+- show, run, remove, and rename snippets by name or `@index`
 - store data as JSON in an XDG-compatible config location
 - execute commands via `bash -lc`
 
